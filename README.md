@@ -1,4 +1,4 @@
-# OrderOrganizer
+# File Organizer
 A GUI tool designed to create a folder with the day's date and move a certain filetype into the folder
 
 At my current job a certain filetype was being used to perform the export and import of 3D scans into a program. 
